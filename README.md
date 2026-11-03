@@ -14,10 +14,12 @@
 
 <br>
 
-I turn messy, undocumented, or outright adversarial data into systems that work in production,
-not just in a notebook. Six projects below cover computer vision, forecasting, and LLM
-evaluation — all deployed, all benchmarked against a real baseline. On three of them, the
-hardest part wasn't training the model; it was proving it was lying to me, then fixing it.
+Licence en Informatique Appliquée (Développement), then a Master's in Data Science and AI —
+graduated top of my class. I build full systems end to end: the models, but also the APIs,
+CI/CD, and infrastructure that get them in front of real users. Six projects below cover
+computer vision, forecasting, and LLM evaluation — all deployed, all benchmarked against a
+real baseline. On three of them, the hardest part wasn't training the model; it was proving
+it was lying to me, then fixing it.
 
 Open to data science, ML engineering, and AI roles — and genuinely interested in talking
 about any AI or data problem, not just the ones below.
@@ -102,13 +104,20 @@ documented the fix rather than hiding it.
 
 ---
 
+### Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,nextjs,postgres,docker,aws&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lubabah-Hamouch&show_icons=true&hide_border=true&theme=dark&hide_title=true" height="150">
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=flat-square&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/Deploy-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D9488,100:0F172A&section=footer&animation=fadeIn" width="100%">
