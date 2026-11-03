@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lubabah-hamouch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:fathamouch0@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:lubabah.hamouch0@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Casablanca%2C_Morocco-0D9488?style=flat-square">
 </p>
 
