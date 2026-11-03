@@ -1,69 +1,74 @@
-<h1 align="center">Hi, I'm Lubabah 👋</h1>
-<h3 align="center">Data Scientist & AI — Computer Vision, Forecasting & LLM Evaluation</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:fathamouch0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Casablanca%2C%20Morocco-informational">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:0D9488&text=Lubabah%20Hamouch&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%26%20AI&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" width="100%">
 </p>
 
-Master's in Data Science & AI (Mundiapolis). I build end-to-end ML systems — and I document
-when they're wrong as carefully as when they work. Three of my six public projects involved
-catching a model doing the wrong thing for the right-looking reason, and fixing it.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=0D9488&center=true&vCenter=true&width=600&lines=Computer+vision;Time-series+forecasting;LLM+evaluation;Deployed%2C+not+just+trained" alt="typing-svg">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lubabah-hamouch/">LinkedIn</a> ·
+  <a href="mailto:fathamouch0@gmail.com">Email</a> ·
+  Casablanca, Morocco
+</p>
+
+<br>
+
+Master's in Data Science and AI (Mundiapolis). I build end-to-end ML systems, and on three of
+the six projects below, the most important work was catching my own model doing the wrong
+thing for a convincing-looking reason, then proving the fix with a real number.
 
 ---
 
-### 🔍 Featured projects
+### Featured work
 
-**[Brain-Tumour-Detector](https://github.com/Lubabah-Hamouch/Brain-Tumour-Detector)** — 3D MRI tumor
-segmentation (Dice 0.90) + classification (98.3% accuracy). Found the classifier was secretly keying
-off image resolution instead of tumor features — diagnosed it with Grad-CAM, fixed it with targeted
-augmentation, with zero accuracy cost.
+**Brain-Tumour-Detector** — 3D MRI tumor segmentation (Dice 0.90) and classification (98.3%
+accuracy). Found the classifier was keying off image resolution instead of real tumor features,
+diagnosed it with Grad-CAM, and fixed it with zero accuracy cost.
 `PyTorch` `FastAPI` `Next.js` `Three.js`
+[Live demo](https://brain-tumour-detector-iota.vercel.app) · [Code](https://github.com/Lubabah-Hamouch/Brain-Tumour-Detector)
 
-**[AWS-codegen-1.5b](https://github.com/Lubabah-Hamouch/AWS-codegen-1.5b)** — Fine-tuned a 1.5B code
-model (QLoRA), served from AWS Lambda for ~$0/month. Format compliance: 5.5% → 99.4%.
-[Live playground →](https://d2js86b0xg0ozs.cloudfront.net)
+**AWS-codegen-1.5b** — Fine-tuned a 1.5B code model with QLoRA, served from AWS Lambda for
+roughly $0 a month. Format compliance went from 5.5% to 99.4%.
 `PyTorch` `Transformers` `AWS Lambda` `Next.js`
+[Live demo](https://d2js86b0xg0ozs.cloudfront.net) · [Code](https://github.com/Lubabah-Hamouch/AWS-codegen-1.5b)
 
-**[Demand-Bench](https://github.com/Lubabah-Hamouch/Demand-Bench)** — SKU-level demand forecasting on
-30,490 Walmart product series. WAPE 0.755 vs. 0.916 naive baseline, leak-safe backtesting.
-[Live dashboard →](https://demand-bench.onrender.com)
+**Demand-Bench** — SKU-level demand forecasting across 30,490 Walmart product series. WAPE
+0.755 against a 0.916 naive baseline, leak-safe rolling-origin backtesting.
 `LightGBM` `DuckDB` `Polars` `FastAPI`
+[Live demo](https://demand-bench.onrender.com) · [Code](https://github.com/Lubabah-Hamouch/Demand-Bench)
 
-**[RAG-Bench](https://github.com/Lubabah-Hamouch/RAG-Bench)** — Controlled experiment on RAG prompting
-strategies with claim-level judging. Found retrieval mattered more than prompting (RRR: +0.39 FCS over
-no-retrieval, 95% CI 0.17–0.62).
-[Try it live →](https://rag-bench.onrender.com)
+**RAG-Bench** — A controlled experiment on RAG prompting strategies with claim-level judging.
+Found retrieval mattered more than prompting: the best strategy gained +0.39 over a no-retrieval
+control (95% CI 0.17 to 0.62).
 `ChromaDB` `sentence-transformers` `FastAPI`
+[Live demo](https://rag-bench.onrender.com) · [Code](https://github.com/Lubabah-Hamouch/RAG-Bench)
 
-**[oil-spill-detection](https://github.com/Lubabah-Hamouch/oil-spill-detection)** — Aerial oil-spill
-detection & segmentation. 92.8% classification accuracy, 90.1% segmentation Dice.
-[Live demo →](https://oil-spill-detection-vmsd.onrender.com)
+**oil-spill-detection** — Aerial oil-spill detection and segmentation. 92.8% classification
+accuracy, 90.1% segmentation Dice.
 `MobileNetV3` `U-Net` `FastAPI` `React`
+[Live demo](https://oil-spill-detection-vmsd.onrender.com) · [Code](https://github.com/Lubabah-Hamouch/oil-spill-detection)
 
-**[Student-Behaviour-Detector](https://github.com/Lubabah-Hamouch/Student-Behaviour-Detector)** —
-YOLOv8m classroom behavior detection on a self-filmed, hand-labelled dataset. Caught data leakage in
-an earlier version (inflated mAP50 0.77 → honest 0.502) and documented it openly.
+**Student-Behaviour-Detector** — YOLOv8m classroom behavior detection on a self-filmed,
+hand-labelled dataset. Caught data leakage in an earlier version, which dropped the honest
+mAP50 from an inflated 0.77 to 0.502, and documented the fix.
 `YOLOv8` `PyTorch` `FastAPI`
+[Code](https://github.com/Lubabah-Hamouch/Student-Behaviour-Detector)
 
 ---
 
-### 🛠️ Stack
+### Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,nextjs,postgres,docker,aws&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lubabah-Hamouch&show_icons=true&theme=default&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lubabah-Hamouch&show_icons=true&hide_border=true&theme=dark&hide_title=true" height="150">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D9488,100:0F172A&section=footer&animation=fadeIn" width="100%">
 </p>
