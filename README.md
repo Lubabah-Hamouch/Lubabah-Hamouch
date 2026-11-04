@@ -1,28 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:0D9488&text=Lubabah%20Hamouch&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%2C%20AI%20Engineer&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:0D9488&text=Lubabah%20Hamouch&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%2C%20AI%20Engineer&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Lubabah Hamouch, Data Scientist, AI Engineer">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=0D9488&center=true&vCenter=true&width=600&lines=Computer+vision;Time-series+forecasting;LLM+evaluation;Shipped%2C+not+just+trained" alt="typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=0D9488&center=true&vCenter=true&width=600&lines=Computer+vision;Time-series+forecasting;LLM+evaluation;Shipped%2C+not+just+trained" alt="Computer vision, time-series forecasting, LLM evaluation, shipped not just trained">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lubabah-hamouch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lubabah.hamouch0@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Casablanca%2C_Morocco-0D9488?style=flat-square">
+  <a href="https://www.linkedin.com/in/lubabah-hamouch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lubabah.hamouch0@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linktr.ee/lubabah.hamouch0"><img src="https://img.shields.io/badge/Resume_%26_Links-0D9488?style=flat-square" alt="Resume and links"></a>
+  <img src="https://img.shields.io/badge/Casablanca%2C_Morocco-0D9488?style=flat-square" alt="Casablanca, Morocco">
 </p>
 
 <br>
 
-Licence en Informatique Appliquée (Développement), then a Master's in Data Science and AI —
-graduated top of my class. I build full systems end to end: the models, but also the APIs,
+Licence en Informatique Appliquée (Développement), then a Master's in Data Science and AI,
+graduating top of my class. I build full systems end to end: the models, but also the APIs,
 CI/CD, and infrastructure that get them in front of real users. Six projects below cover
-computer vision, forecasting, and LLM evaluation — all deployed, all benchmarked against a
+computer vision, forecasting, and LLM evaluation, all deployed and benchmarked against a
 real baseline. On three of them, the hardest part wasn't training the model; it was proving
 it was lying to me, then fixing it.
 
-Open to data science, ML engineering, and AI roles — and genuinely interested in talking
+Open to data science, ML engineering, and AI roles, and genuinely interested in talking
 about any AI or data problem, not just the ones below.
+
+<sub>*A couple of the live demos below run on free-tier hosting and go to sleep when idle, so the first load can take 30-50 seconds to wake up. Worth a second try if it looks stuck.*</sub>
 
 ---
 
@@ -30,7 +33,7 @@ about any AI or data problem, not just the ones below.
 
 **Brain-Tumour-Detector**
 3D MRI tumor segmentation (Dice 0.90) and classification (98.3% accuracy). The classifier
-was secretly keying off image resolution instead of real tumor features — caught it with
+was secretly keying off image resolution instead of real tumor features. Caught it with
 Grad-CAM, fixed it with targeted augmentation, zero accuracy lost.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -93,8 +96,8 @@ segmentation Dice.
 
 **Student-Behaviour-Detector**
 YOLOv8m classroom behavior detection on a self-filmed, hand-labelled dataset. Caught data
-leakage in an earlier version — honest mAP50 dropped from an inflated 0.77 to 0.502 — and
-documented the fix rather than hiding it.
+leakage in an earlier version: honest mAP50 dropped from an inflated 0.77 to 0.502.
+Documented the fix rather than hiding it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
@@ -107,18 +110,18 @@ documented the fix rather than hiding it.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,nextjs,postgres,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,nextjs,postgres,docker,aws&theme=dark" alt="Python, PyTorch, FastAPI, React, Next.js, PostgreSQL, Docker, AWS">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=flat-square&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/Deploy-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD: GitHub Actions">
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Deploy: Vercel">
+  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Deploy: Render">
+  <img src="https://img.shields.io/badge/Deploy-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Deploy: AWS Lambda">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D9488,100:0F172A&section=footer&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D9488,100:0F172A&section=footer&animation=fadeIn" width="100%" alt="">
 </p>
