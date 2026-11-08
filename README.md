@@ -79,7 +79,7 @@ mattered more than prompting: the best strategy gained +0.39 over a no-retrieval
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://rag-bench.onrender.com)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://ragbench-ui.onrender.com)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/RAG-Bench)
 
 **oil-spill-detection**
