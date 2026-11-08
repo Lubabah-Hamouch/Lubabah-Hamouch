@@ -10,17 +10,17 @@
   <a href="https://www.linkedin.com/in/lubabah-hamouch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lubabah.hamouch0@gmail.com"><img src="https://img.shields.io/badge/lubabah.hamouch0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email: lubabah.hamouch0@gmail.com"></a>
   <a href="https://linktr.ee/lubabah.hamouch0"><img src="https://img.shields.io/badge/Resume_%26_Links-0D9488?style=flat-square" alt="Resume and links"></a>
-  <img src="https://img.shields.io/badge/Casablanca%2C_Morocco-0D9488?style=flat-square" alt="Casablanca, Morocco">
+  <img src="https://img.shields.io/badge/London%2C_UK-0D9488?style=flat-square&logo=googlemaps&logoColor=white" alt="London, UK">
 </p>
 
 <br>
 
-Licence en Informatique Appliquée (Développement), then a Master's in Data Science and AI,
-graduating top of my class. I build full systems end to end: the models, but also the APIs,
-CI/CD, and infrastructure that get them in front of real users. Six projects below cover
-computer vision, forecasting, and LLM evaluation, all deployed and benchmarked against a
-real baseline. On three of them, the hardest part wasn't training the model; it was proving
-it was lying to me, then fixing it.
+Bachelor's in Applied Computer Science (Development track), then a Master's in Data Science
+and AI (MSc equivalent), graduating top of my class. I build full systems end to end: the
+models, but also the APIs, CI/CD, and infrastructure that get them in front of real users.
+Six projects below cover computer vision, forecasting, and LLM evaluation, all deployed and
+benchmarked against a real baseline. On three of them, the hardest part wasn't training the
+model; it was proving it was lying to me, then fixing it.
 
 Open to data science, ML engineering, and AI roles, and genuinely interested in talking
 about any AI or data problem, not just the ones below.
@@ -32,8 +32,8 @@ about any AI or data problem, not just the ones below.
 ### Featured work
 
 **Brain-Tumour-Detector**
-3D MRI tumor segmentation (Dice 0.90) and classification (98.3% accuracy). The classifier
-was secretly keying off image resolution instead of real tumor features. Caught it with
+3D MRI tumour segmentation (Dice 0.90) and classification (98.3% accuracy). The classifier
+was secretly keying off image resolution instead of real tumour features. Caught it with
 Grad-CAM, fixed it with targeted augmentation, zero accuracy lost.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,7 +42,7 @@ Grad-CAM, fixed it with targeted augmentation, zero accuracy lost.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://brain-tumour-detector-iota.vercel.app)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://brain-tumour-detector-iota.vercel.app)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/Brain-Tumour-Detector)
 
 **AWS-codegen-1.5b**
@@ -54,7 +54,7 @@ Format compliance: 5.5% to 99.4%.
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://d2js86b0xg0ozs.cloudfront.net)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=amazonaws&logoColor=white)](https://d2js86b0xg0ozs.cloudfront.net)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/AWS-codegen-1.5b)
 
 **Demand-Bench**
@@ -66,7 +66,7 @@ SKU-level demand forecasting across 30,490 Walmart product series. WAPE 0.755 ag
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://demand-bench.onrender.com)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=render&logoColor=white)](https://demand-bench.onrender.com)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/Demand-Bench)
 
 **RAG-Bench**
@@ -79,7 +79,7 @@ mattered more than prompting: the best strategy gained +0.39 over a no-retrieval
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://ragbench-ui.onrender.com)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=render&logoColor=white)](https://ragbench-ui.onrender.com)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/RAG-Bench)
 
 **oil-spill-detection**
@@ -91,11 +91,11 @@ segmentation Dice.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square)](https://oil-spill-detection-bdg1.onrender.com/)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=render&logoColor=white)](https://oil-spill-detection-bdg1.onrender.com/)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/oil-spill-detection)
 
 **Student-Behaviour-Detector**
-YOLOv8m classroom behavior detection on a self-filmed, hand-labelled dataset. Caught data
+YOLOv8m classroom behaviour detection on a self-filmed, hand-labelled dataset. Caught data
 leakage in an earlier version: honest mAP50 dropped from an inflated 0.77 to 0.502.
 Documented the fix rather than hiding it.
 
