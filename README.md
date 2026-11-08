@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/lubabah-hamouch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lubabah.hamouch0@gmail.com"><img src="https://img.shields.io/badge/lubabah.hamouch0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email: lubabah.hamouch0@gmail.com"></a>
   <a href="https://linktr.ee/lubabah.hamouch0"><img src="https://img.shields.io/badge/Resume_%26_Links-0D9488?style=flat-square" alt="Resume and links"></a>
-  <img src="https://img.shields.io/badge/London%2C_UK-0D9488?style=flat-square&logo=googlemaps&logoColor=white" alt="London, UK">
+  <img src="https://img.shields.io/badge/London%2C_UK-0D9488?style=flat-square" alt="London, UK">
 </p>
 
 <br>
@@ -54,7 +54,7 @@ Format compliance: 5.5% to 99.4%.
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=amazonaws&logoColor=white)](https://d2js86b0xg0ozs.cloudfront.net)
+[![Live demo](https://img.shields.io/badge/Live_demo-0D9488?style=flat-square&logo=awslambda&logoColor=white)](https://d2js86b0xg0ozs.cloudfront.net)
 [![Code](https://img.shields.io/badge/Code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Lubabah-Hamouch/AWS-codegen-1.5b)
 
 **Demand-Bench**
